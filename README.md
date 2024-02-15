@@ -1,1 +1,1 @@
-This Repo contains code while learning JavaScript.
+This repo is created while learning Javascript from Youtube.
